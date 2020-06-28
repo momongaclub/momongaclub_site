@@ -1,0 +1,31 @@
+baseURL = "https://momongaclub.github.io/momogaclub_site/"
+publishDir = "docs"
+canonifyurls = true
+languageCode = "ja"
+title = "My New Hugo Site"
+theme = "dream"
+
+tags = ["flip", "masonry layouts", "i18n", "blog", "google-analytics", "disqus", "responsive", "copyright", "avatar", "motto", "sociallinks", "creative", "personal", "light-mode", "dark mode", "job", "all"]
+features = ["flip", "masonry layouts", "i18n", "blog", "google-analytics", "disqus", "responsive", "copyright", "avatar", "motto", "sociallinks", "creative", "personal", "light-mode", "dark mode", "all"]
+
+[params]
+  # background = "black"
+  backgroundImage = "/me/image1.jpg"
+  linkColor = "seagreen"
+
+  author = "ミバヤシ"
+  description = "description"
+  avatar = "/me/inu.jpg"
+  motto = "ディープでトップなラップロボットを作ってます。　　研究概要:example_url"
+
+  email = "threeforesr8@gmail.com"
+  twitter = "tyariRAD"
+  instagram = "chally0317"
+  linkedin = "ryota-mibayashi-31979715b"
+  github = "momongaclub"
+  qiita = "aaa"
+
+  siteStartYear = 2016
+
+  favicon = "/favicon.ico"
+
